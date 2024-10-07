@@ -1,4 +1,4 @@
-# Créer son projet REACTJS
+# Créer son application REACTJS
 
 Le projet se trouve sur github (https://github.com/ton-projet).
 
@@ -27,6 +27,8 @@ Sur ton terminal, il faut faire successivement ces commandes :
    - git commit -m "Premier commit"
    - git remote add origin https://github.com/ton-nom-utilisateur/nom-du-depot.git
    - git push -u origin master
+
+## Créer des fichiers pour le coté front(ReactJS) : 
 
 
 
